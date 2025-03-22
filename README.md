@@ -29,7 +29,3 @@ A clean, modern, and responsive login user interface design implemented using HT
 ## Preview
 
 You can see the live preview by opening the index.html file in your browser.
-
-## License
-
-MIT License - feel free to use this in your projects!
